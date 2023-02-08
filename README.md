@@ -2,16 +2,26 @@
 This project was done by a team of 3 members. Coded in C#.
 
 ## Number Assignment
-0 = Blankspace\n
+0 = Blankspace
+
 1 = Pellet
+
 2 = Walls
+
 3 = Door
+
 5 = Pacman
+
 6 = Portal Blue
+
 7 = Portal Orange
+
 8 = Ghost 1
+
 9 = Ghost 2
+
 10 = Ghost 3
+
 11 = Ghost 4
 
 
