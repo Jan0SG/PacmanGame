@@ -1,7 +1,7 @@
 # Pacman Game
 This project was done by a team of 3 members. Coded in C#.
 
-## Numeber Assignment
+## Number Assignment
 0 = Blankspace
 1 = Pellet
 2 = Walls
