@@ -1,5 +1,5 @@
 # Pacman Game
-This project was done by a team of 3 members. Coded in C#.
+This project is a Pacman Game Clone and it was done by a team of 3 members. Coded in C#.
 
 ## Number Assignment
 0 = Blankspace
