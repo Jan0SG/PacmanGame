@@ -2,8 +2,7 @@
 This project was done by a team of 3 members. Coded in C#.
 
 ## Number Assignment
-0 = Blankspace
-
+0 = Blankspace\n
 1 = Pellet
 2 = Walls
 3 = Door
